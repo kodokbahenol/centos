@@ -1,0 +1,2 @@
+# centos
+untuk umum
